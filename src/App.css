@@ -1,0 +1,10 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+.image{
+  width: 70px;
+  height: 50px;
+  margin-right: 40px;
+}
